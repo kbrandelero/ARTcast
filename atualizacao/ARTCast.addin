@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Manifesto do ARTCast. O Revit 2026 lê este arquivo ao abrir.
+  Instalação à mão:
+    %AppData%\Autodesk\Revit\Addins\2026\ARTCast.addin        (este arquivo)
+    %AppData%\Autodesk\Revit\Addins\2026\ARTCast\ARTCast.dll  (o DLL compilado)
+  O caminho em <Assembly> é relativo à pasta deste arquivo.
+-->
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ARTCast</Name>
+    <Assembly>ARTCast\ARTCast.dll</Assembly>
+    <AddInId>E62A9DCB-8768-42A1-9DED-7CEB6D06C746</AddInId>
+    <FullClassName>ARTCast.App.Aplicacao</FullClassName>
+    <VendorId>ARTCAST</VendorId>
+    <VendorDescription>ARTCast</VendorDescription>
+  </AddIn>
+</RevitAddIns>
