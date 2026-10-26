@@ -1,0 +1,3 @@
+0.6.0
+sha256=E091287E42BD87DD3BAED723C9EAE631CF1B981D39484845AF9A0D5136E02B0A
+notas=atualização automática pelo GitHub; giro canônico no CG e na Montagem; Lista com alveolar e placa
