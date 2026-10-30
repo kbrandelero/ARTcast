@@ -1,3 +1,3 @@
-0.6.1
-sha256=D0DE2EE33B8BF3F63D013B626E5DD60F05FB1632B90E3F8E78A2073B309E688E
-notas=Tudo com o nome ARTCast; padrões do ARTCast dentro do plugin (quem testa não precisa de arquivo) e botão Padrões para salvar uma cópia e usar os seus; o atualizador troca também o ARTCast.addin
+0.17.1
+sha256=50D32F9470AE0265C1737FE2DA39A643D7C0E0AACBB0F4D6022084E9A2344BED
+notas=Lançamento de pilar, viga e consolo; Numeração e Igualar no padrão CSE; Montagem por grupo de iguais; módulo metálico (tesoura, treliça, fechamento e chumbador); correções do teste das 40 situações: Verificar sem as barras metálicas, Lista por grupo de iguais, Viga sem consolo duplicado
